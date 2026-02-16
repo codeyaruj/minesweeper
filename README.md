@@ -1,4 +1,4 @@
-# Advanced Minesweeper
+# Minesweeper
 
 A polished and fully featured implementation of Minesweeper with a clean architecture and smooth user experience.
 
